@@ -12,3 +12,5 @@
 - 🛠️ Custom models & textures
 - 🎯 Balanced stats for fair gameplay
 - 💼 Server-friendly performance optimization
+
+**Support:** [https://discord.gg/eRFY2XpF8q](https://discord.gg/eRFY2XpF8q)
